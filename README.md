@@ -1,24 +1,54 @@
-# 🍔 Burger Order App
+# 🍔 Burger Order App (Console Version)
 
-A simple, beginner-friendly C# console app that simulates ordering a burger. It showcases:
+A simple C# console application that lets the user order a burger, choose add-ons, and see the final price. It's a great little project for beginners who know the basics of C# and want to practice with user input, conditionals, and collections.
 
-User input handling
+---
 
-Nullable booleans
+## 🧠 What You'll Learn
 
-Console UI basics in C#
+- How to use `if` / `else` for simple logic
+- How to read input from the user
+- How to work with lists and strings
+- How to calculate and display a total price
 
-📆 Sample Output
+---
 
-🍔 Welcome to C# Burger Spot!
-1. Classic Burger - $5.99
-2. Cheese Burger - $6.99
-3. Chicken Burger - $6.49
-Enter your choice: 2
-...etc
+## 🚀 How It Works
 
-🚀 Run it:
-```
+1. The user picks one of three burgers
+2. The user chooses optional add-ons (Fries, Drink, Cheese)
+3. The program shows the full order and the total price
+4. The user can confirm or cancel the order
+
+---
+
+## 📸 Example Output
+![App Screenshot](assets/screenshot.png)
+
+---
+
+## 💻 Getting Started
+
+### Requirements:
+- .NET 6.0 SDK or higher
+- A terminal or console window
+
+### To Run:
+Clone the repository and run:
+
+```bash
 dotnet run
 ```
-![App Screenshot](assets/screenshot.png)
+📬 Contact
+If you'd like to suggest features or report a bug, feel free to open an issue or email:
+mostafa.said.dev@gmail.com
+
+🪪 License
+This project is licensed under the MIT License. See LICENSE.txt for details.
+
+🙌 Credits
+Made with ❤️ by Mostafa-SAID7
+Follow me on GitHub: @Mostafa-SAID7
+
+---
+
