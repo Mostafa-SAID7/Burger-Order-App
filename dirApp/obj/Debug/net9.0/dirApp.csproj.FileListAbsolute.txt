@@ -1,0 +1,14 @@
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\bin\Debug\net9.0\dirApp.exe
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\bin\Debug\net9.0\dirApp.deps.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\bin\Debug\net9.0\dirApp.runtimeconfig.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\bin\Debug\net9.0\dirApp.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\bin\Debug\net9.0\dirApp.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\obj\Debug\net9.0\dirApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\obj\Debug\net9.0\dirApp.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\obj\Debug\net9.0\dirApp.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\obj\Debug\net9.0\dirApp.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\obj\Debug\net9.0\dirApp.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\obj\Debug\net9.0\refint\dirApp.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\obj\Debug\net9.0\dirApp.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\obj\Debug\net9.0\dirApp.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\dirApp\dirApp\obj\Debug\net9.0\ref\dirApp.dll
