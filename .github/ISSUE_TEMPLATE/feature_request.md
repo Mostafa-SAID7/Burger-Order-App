@@ -7,29 +7,25 @@ assignees: ''
 
 ---
 
-name: 🛠️ Bug Report
-description: Report a bug or unexpected behavior
-labels: [bug]
-title: '[Bug]: '
+name: 🚀 Feature Request
+description: Suggest a new feature or idea
+labels: [enhancement]
+title: '[Feature]: '
 body:
   - type: textarea
-    id: what-happened
+    id: feature-description
     attributes:
-      label: What happened?
-      description: Describe the issue you encountered
-      placeholder: Something went wrong...
+      label: Describe the feature
+      description: What do you want to see added or changed?
+      placeholder: I want to be able to...
     validations:
       required: true
-  - type: input
-    id: steps
+  - type: textarea
+    id: benefit
     attributes:
-      label: Steps to reproduce
-      placeholder: "1. Run ...\n2. Click ...\n3. See error"
-  - type: input
-    id: environment
-    attributes:
-      label: Environment (OS, .NET version, etc.)
-      placeholder: "Windows 10, .NET 6.0"
+      label: What is the benefit?
+      description: How would this feature help users?
+
 ---
 
 **Describe the bug**
