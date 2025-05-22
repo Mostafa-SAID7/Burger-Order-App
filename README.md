@@ -23,7 +23,9 @@ A simple C# console application that lets the user order a burger, choose add-on
 ---
 
 ## 📸 Example Output
-![App Screenshot](assets/screenshot.png)
+
+[![View Screenshot](https://img.shields.io/badge/View-Screenshot-blue?style=for-the-badge)](assets/screenshot.png)
+
 
 ---
 
